@@ -1,3 +1,3 @@
 console.log("Not again");
-console.log("Hello World")
-window.alert("bruh hello world again?")
+console.log('Hello World')    //we can print a statement either using "" or '' (double quotes or single quotes)
+window.alert("bruh hello world again?") //this pops an alert message in the website
