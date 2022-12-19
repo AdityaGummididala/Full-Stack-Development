@@ -38,7 +38,7 @@ that can be evaluated to a value
 ex:- y=x+5;
 */
 //let students = 20;
-nostudents = students-1;
-students = students + 1;
-console.log(students);
-console.log(nostudents);
+//nostudents = students-1;
+//students = students + 1;
+//console.log(students);
+//console.log(nostudents);
