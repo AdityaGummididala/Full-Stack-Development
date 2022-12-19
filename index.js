@@ -42,3 +42,19 @@ ex:- y=x+5;
 //students = students + 1;
 //console.log(students);
 //console.log(nostudents);
+//extra = students % 3;
+//console.log(extra);
+//students += 1; //(this is called augumented assignment operator i.e shortcut for students = students +1;)
+//students -= 2;
+//students *= 3;
+//students /=2;
+//console.log(students);
+/*
+operator precedence
+1.parenthesis()
+2.exponents
+3.multiplication&division
+4.addition & subtraction
+*/
+let result = 2+2*(3+4);
+console.log(result)
