@@ -64,6 +64,7 @@ the easy way
 let username = window.prompt("what's your name?");
 console.log(username);
 */
+
 // the more practical way
 /*
 document.getElementById("mybutton").onclick=function()
@@ -73,3 +74,9 @@ document.getElementById("mybutton").onclick=function()
     document.getElementById("mylabel").innerHTML="Hello "+username;
 }
 */
+/* in html
+<label id="mylabel">enter your name</label><br>
+ <input type="text" id="mytext"> <br>
+ <button type="button" id="mybutton">submit</button>
+*/
+//
