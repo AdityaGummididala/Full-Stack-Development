@@ -16,4 +16,9 @@ a multiline comment
 */
 let age;
 age=18;
+age= age+1;
 console.log(age);
+let firstname = "Aditya Gummididala"; //string
+console.log(firstname);
+let student = true //boolean it is one of two values true of false
+console.log(student);
