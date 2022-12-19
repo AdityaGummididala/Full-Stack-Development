@@ -154,6 +154,14 @@ console.log(c)
 */
 //or
 /*
+->in html
+<label id="alabel">Side A:</label> <br>
+ <input type="text" id="atext"> <br>
+ <label id="blabel">Side B:</label> <br>
+ <input type="text" id="btext"> <br>
+ <button type="button" id="mybutton"> Submit </button> <br>
+ <label id="Clabel"></label> <br>
+ ->in js
 let a;
 let b;
 let c;
