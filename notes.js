@@ -58,3 +58,18 @@ operator precedence
 */
 //let result = 2+2*(3+4);
 //console.log(result)
+//how to take user input
+/*
+the easy way
+let username = window.prompt("what's your name?");
+console.log(username);
+*/
+// the more practical way
+/*
+document.getElementById("mybutton").onclick=function()
+{
+    username=document.getElementById("mytext").value;
+    console.log(username);
+    document.getElementById("mylabel").innerHTML="Hello "+username;
+}
+*/
