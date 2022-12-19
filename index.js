@@ -14,6 +14,7 @@ a multiline comment
 1.Declaration(var,let,const)
 2.Assignment(= assignment operator)
 */
+/*
 let age;
 age=18;
 age= age+1;
@@ -28,3 +29,16 @@ console.log(student,"you are enrolled");
 document.getElementById("p1").innerHTML = "Hello "+firstname;
 document.getElementById("p2").innerHTML = "you are "+age+" years old";
 document.getElementById("p3").innerHTML = "Enrolled: "+student;
+*/
+/*-----------------------------------------------------------------------*/
+/* arthimetic expression is a combination of..
+operands(values,variables,etc.)
+operators(+ - * / %)
+that can be evaluated to a value
+ex:- y=x+5;
+*/
+//let students = 20;
+nostudents = students-1;
+students = students + 1;
+console.log(students);
+console.log(nostudents);
