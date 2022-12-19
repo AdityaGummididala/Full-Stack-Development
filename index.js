@@ -22,3 +22,6 @@ let firstname = "Aditya Gummididala"; //string
 console.log(firstname);
 let student = true //boolean it is one of two values true of false
 console.log(student);
+console.log("hello",firstname);
+console.log("you are ",age,"years old");
+console.log(student,"you are enrolled");
