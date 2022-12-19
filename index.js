@@ -14,3 +14,6 @@ a multiline comment
 1.Declaration(var,let,const)
 2.Assignment(= assignment operator)
 */
+let age;
+age=18;
+console.log(age);
