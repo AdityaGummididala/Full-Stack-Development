@@ -113,3 +113,26 @@ radius = Number(radius);
 circumference = 2*PI*radius;
 console.log("the circumference is ", circumference)
 */
+/*
+let x = 3.89
+let y = 5;
+let z = 9;
+x = Math.round(x);
+b = Math.floor(x);
+c= Math.ceil(x);
+d=Math.pow(x,2);
+e=Math.sqrt(x);
+f=Math.abs(x);
+maximum = Math.max(x,y,z);
+minimum = Math.min(x,y,z);
+a=Math.PI;
+console.log(x);
+console.log(b)
+console.log(c)
+console.log(d)
+console.log(e)
+console.log(f)
+console.log(maximum)
+console.log(minimum)
+console.log(a)
+*/
