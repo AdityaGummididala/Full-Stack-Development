@@ -102,3 +102,14 @@ console.log(x, typeof x);
 console.log(y, typeof y);
 console.log(z, typeof z);
 */
+--
+// const = a variable that can't be changed
+ /*
+const PI =3.14159;
+let radius;
+let circumference;
+radius = window.prompt("enter the radius of a circle")
+radius = Number(radius);
+circumference = 2*PI*radius;
+console.log("the circumference is ", circumference)
+*/
