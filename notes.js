@@ -175,3 +175,48 @@ document.getElementById("mybutton").onclick = function()
     document.getElementById("Clabel").innerHTML="Side C :" + c ;
 }
 */
+//counter prob
+/*
+->in html
+ <label id="countlabel">0</label>
+ <button type="button" id="decrease">decrease</button>
+ <button type="button" id="reset">reset</button>
+ <button type="button" id="increase">increase </button>
+    <script src="index.js"> </script 
+    ->in js
+    let count = 0;
+document.getElementById("decrease").onclick=function()
+{
+    count -=1;
+    document.getElementById("countlabel").innerHTML=count;
+}
+document.getElementById("increase").onclick=function()
+{
+count +=1;
+document.getElementById("countlabel").innerHTML=count;
+}
+document.getElementById("reset").onclick=function() {
+    count = 0
+    document.getElementById("countlabel").innerHTML=count;
+}
+->css
+#countlabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+}
+
+#decrease{
+    
+    text-align: left;
+    font-size: small;
+}
+#increase{
+    text-align: right;
+    font-size: small;
+}
+#reset{
+    text-align: center;
+    font-size: small;
+}
+*/
