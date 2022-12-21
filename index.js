@@ -7,3 +7,7 @@ let username="    adityaaaaaaaaaaaaaaaaaaaaaaaaaa   "
 //console.log(username.lastIndexOf("a"))
 username = username.trim()
 console.log(username)
+username=username.toUpperCase();
+y=username.toLowerCase();
+console.log(username)
+console.log(y)
