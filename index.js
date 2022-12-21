@@ -11,3 +11,7 @@ username=username.toUpperCase();
 y=username.toLowerCase();
 console.log(username)
 console.log(y)
+let phone;
+phone="12-34-56-79-0"
+phone=phone.replaceAll("-" , "")
+console.log(phone)
