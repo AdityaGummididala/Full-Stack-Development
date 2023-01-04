@@ -1,9 +1,9 @@
 body{
-    background-color: black;
+    background-color: whitesmoke;
 }
-h1{
-color:white;
+.odd{
+    color:orange;
 }
-p{
-    color:whitesmoke
+.even{
+    color:green;
 }
