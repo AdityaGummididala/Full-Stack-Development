@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+}
+h1{
+    color:whitesmoke;
+    font-family: 'Press Start 2P', cursive;
+}
+p{
+    color:aqua;
+    font-family: "consolas",sans-serif;
+}
